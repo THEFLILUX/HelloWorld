@@ -1,4 +1,5 @@
 import sys
 import os
 
-print("Hola")
+name = input("¿Cuál es tu nombre?: ")
+print("Hola " + name)
